@@ -6,15 +6,15 @@ An advanced confluence of computational algorithms and acoustic interfacing - de
 <code> git clone https://github.com/rajaravindp/talkadoodledoo.git </code>
 
 ## Install Dependencies:
-<code> npm install -y </code>
-<code> npm i @google-cloud/speech @google-cloud/text-to-speech chalk dotenv events node-record-lpcm16 openai </code>
+<code> npm install -y </code> <br>
+<code> npm i @google-cloud/speech @google-cloud/text-to-speech chalk dotenv events node-record-lpcm16 openai </code> 
 
 ## Configure API Keys:
-Create a .env file with the necessary API credentials.
+Create a .env file with the necessary API credentials. <br>
 <li>
-  openAI api-key
-  elevenlabs api-key
-  google cloud application credentials
+  openAI api-key <br>
+  elevenlabs api-key <br>
+  google cloud application credentials <br>
 </li>
 
 ## Run the Application:
