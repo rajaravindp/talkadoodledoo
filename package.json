@@ -4,7 +4,7 @@
   "main": "app-fs.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
