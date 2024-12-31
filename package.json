@@ -1,0 +1,22 @@
+{
+  "name": "05-voicebot",
+  "version": "1.0.0",
+  "main": "app-fs.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/speech": "^6.7.0",
+    "@google-cloud/text-to-speech": "^5.7.0",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "events": "^3.3.0",
+    "node-record-lpcm16": "^1.0.1",
+    "openai": "^4.77.0"
+  }
+}
